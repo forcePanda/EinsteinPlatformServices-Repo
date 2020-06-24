@@ -5,8 +5,9 @@ This directory contains some apex classes that you can use to interact with Eins
 - [Introduction to Einstein OCR](https://forcepanda.wordpress.com/2020/05/30/say-hi-to-the-new-einstein-ocr-summer20/)
 - [Einstein OCR - Extract Text from Image](https://forcepanda.wordpress.com/2020/06/02/extract-text-from-image-einstein-ocr/)
 
-### Custom Metadata Settings Details
+### Custom Metadata Type Definition
 [JWT MDT Definition.png](https://github.com/forcePanda/EinsteinPlatformServices-Repo/blob/master/Apex%20Classes/JWT%20MDT%20Definition.png)
+
 
 |Classes| Description
 |-|-|
