@@ -12,11 +12,9 @@ public class JWT {
     public String pkcs8 {get;set;}
     public String privateKey {get;set;}
     
-    
     public static final String HS256 = 'HS256';
     public static final String RS256 = 'RS256';
     public static final String NONE = 'none';
-    
     
     public JWT(String alg, Integer duration) {
         this.alg = alg;
