@@ -13,7 +13,6 @@ This directory contains some apex classes that you can use to interact with Eins
 ### List of all the Apex classes
 |Class Name| Description
 |-|-|
-
 | JWT | Used for generation of Assertion Signing Key |
 | JWTBearerFlow | Used for making callout to Einstein APIs for authentication |
 | EinsteinServicesAPIAuthenticationHandler | Main class that calls the 'JWTBearerFlow' class to get the authentication token | 
