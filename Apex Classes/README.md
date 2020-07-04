@@ -3,6 +3,7 @@ This directory contains some apex classes that you can use to interact with Eins
 
 ### Related Blog posts links:
 - [Introduction to Einstein OCR](https://forcepanda.wordpress.com/2020/05/30/say-hi-to-the-new-einstein-ocr-summer20/)
+- [Authentication with Einstein Vision and Language APIs](https://forcepanda.wordpress.com/2020/07/04/authentication-with-einstein-vision-and-language-apis/)
 - [Einstein OCR - Extract Text from Image](https://forcepanda.wordpress.com/2020/06/02/extract-text-from-image-einstein-ocr/)
 
 ### Custom Metadata Type Definition
