@@ -16,7 +16,7 @@ This directory contains some apex classes that you can use to interact with Eins
 | JWT | Used for generation of Assertion Signing Key |
 | JWTBearerFlow | Used for making callout to Einstein APIs for authentication |
 | EinsteinServicesAPIAuthenticationHandler | Main class that calls the 'JWTBearerFlow' class to get the authentication token | 
-<!-- | HttpFormBuilder | Utility class used to create multipart/form-data type request |
+| HttpFormBuilder | Utility class used to create multipart/form-data type request |
 | EinsteinOCRPredictionResponseWrapper | Wrapper class for deserialization of response from the Einstein OCR callout |
-| EinsteinOCRPredictionHandler | Main class to perform callout to Einstein OCR and process the response | -->
+| EinsteinOCRPredictionHandler | Main class to perform callout to Einstein OCR and process the response |
 
