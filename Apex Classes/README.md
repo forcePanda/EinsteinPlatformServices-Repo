@@ -8,7 +8,7 @@ This directory contains some apex classes that you can use to interact with Eins
 ### Custom Metadata Type Definition
 [JWT MDT Definition.png](https://github.com/forcePanda/EinsteinPlatformServices-Repo/blob/master/Apex%20Classes/JWT%20MDT%20Definition.png)
 
-|Classes| Description
+|Class Name| Description
 |-|-|
 | EinsteinServicesAPIAuthenticationHandler | Main class that calls the 'JWTBearerFlow' class to get the authentication token | 
 | JWT | Used for generation of Assertion Signing Key |
